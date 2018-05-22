@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Class>
+    <uesr id=“10001”>
+		<name >Jack</name>
+		<age>28</age>
+        <city>Beijing</city>
+	</uesr>
+	
+	
+		<name >Bob</name>
+		<age>25</age>
+		<city>Shanghai</city>
+	</student>
+	
+	<user id=“10002”>
+		<name>Harry</name>
+		<age>23</age>
+		<city>ShenZhen</city>
+	</user>
+	
+	<teacher>
+		<name>Marry</name>
+		<age>23</age>
+		<city>Changsha</city>
+	</teacher>
+	
+	<account>
+		<login username="student" password="123456"/>
+		<login username="teacher" password="888888"/>
+	</account>
+</Class>

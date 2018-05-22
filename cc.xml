@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<uesrs>
+    <user id=”1000001“>
+	    <username>test1</username>
+		<password>qu0123456</password>
+    </uesr>
+    <user id="100002">
+	    <username>test2
+	
+	<student>
+		<name >Bob</name>
+		<age>25</age>
+		<city>Shanghai</city>
+	</student>
+	
+	<student>
+		<name>Harry</name>
+		<age>23</age>
+		<city>ShenZhen</city>
+	</student>
+	
+	<teacher>
+		<name>Marry</name>
+		<age>23</age>
+		<city>Changsha</city>
+	</teacher>
+	
+	<account>
+		<login username="student" password="123456"/>
+		<login username="teacher" password="888888"/>
+	</account>
+</Class>
