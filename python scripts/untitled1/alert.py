@@ -1,0 +1,15 @@
+from selenium import webdriver
+from  time import sleep
+driver=webdriver.Firefox()
+driver.get("http://www.baidu.com")
+sleep(3)
+driver.find_element_by_link_text("设置").click()
+sleep(3)
+driver.find_element_by_link_text("搜索设置").click()
+sleep(3)
+driver.find_element_by_link_text("保存设置").click()
+alert=driver.switch_to_alert()
+sleep(5)
+alert.accept()
+sleep(2)
+driver.quit()
