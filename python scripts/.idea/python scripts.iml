@@ -32,7 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/unit" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/report_1" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6.1 (C:\Python36\Python36\python.exe) (2)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6.1 (C:\Python36\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

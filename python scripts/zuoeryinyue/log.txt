@@ -1,0 +1,7 @@
+2018-05-14 23:13:57 appiumtest
+2018-05-14 23:15:00 appiumtest
+2018-05-14 23:15:59 appiumtest
+2018-05-14 23:16:28 appiumtest
+2018-05-14 23:16:36 appiumtest
+2018-05-14 23:16:58 appiumtest
+2018-05-14 23:17:10 appiumtest

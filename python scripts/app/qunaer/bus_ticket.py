@@ -54,5 +54,6 @@ def bus_car_ticket(username,id_num):
 
 
     id("com.mqunar.atom.bus:id/et_passenger_card").send_keys(id_num)
+bus_car_ticket("zhoulouzhu", "123456")
 
 

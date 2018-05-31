@@ -1,13 +1,14 @@
 from time import  sleep
 from log import log
-from  logom import key,id,xpaths,xpath
+from  logom import key,id,xpaths,xpath,yinshi
 
 
 
 def car_main():
 
     log("update")
-    print("首页判断")
+
+    
     sleep(10)
     key(4)
     sleep(3)

@@ -1,7 +1,7 @@
 from logom import id ,xpath,window_size,tap
 import datetime
-import  _pytest
-#logom("13058281327","123456")
+
+logom("13058281327","123456")
 
 #str="13052821327-123456"
 #print(str.split('-'))

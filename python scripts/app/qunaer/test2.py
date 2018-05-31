@@ -1,5 +1,5 @@
 from bus_ticket import  bus_car_ticket
-from com_data.function import  read_excel
+from com_data.funct import  read_excel
 
 
 s=read_excel('mycord.xlsx',0,0)

@@ -47,6 +47,7 @@ class add(unittest.TestCase):
     def test_06(self):
         car6(username,card)
 
+
     def tearDown(self):
         print("测试结束")
 
@@ -61,9 +62,10 @@ if __name__=='__main__':
     #按顺序执行单个测试用例，若是承上启下脚本，需按顺序执行
     suiteTest.addTest(unittest.makeSuite(add))
     #执行整个类里的所有测试用例
-    now = time.strftime("%Y-%m-%d-%H_%M_%S", time.localtime(time.time()))
+    #now = time.strftime("%Y-%m-%d-%H_%M_%S", time.localtime(time.time()))
    # suiteTest.addTest(unittest.makeSuite(add))
-    filepath=''+now+'.html'
+    #filepath=''+now+'.html'
+    filepath = '' + 'report.html'
 
     #filepath='C:\\'+now+'.html'
 

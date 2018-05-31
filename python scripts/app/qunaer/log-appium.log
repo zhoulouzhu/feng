@@ -1,7 +1,7 @@
-Tue, 15 May 2018 14:52:03 log.py INFO 买票 
-Tue, 15 May 2018 14:52:04 log.py INFO 创建快捷方式
-Tue, 15 May 2018 14:52:16 log.py INFO update
-Tue, 15 May 2018 14:52:17 log.py INFO bus ticker
-Tue, 15 May 2018 14:53:21 log.py INFO 车次列表
-Tue, 15 May 2018 14:53:24 log.py INFO 汽车票预订
-Tue, 15 May 2018 14:53:28 log.py INFO 订票人姓名
+Thu, 24 May 2018 22:23:44 log.py INFO 买票 
+Thu, 24 May 2018 22:23:44 log.py INFO 创建快捷方式
+Thu, 24 May 2018 22:24:01 log.py INFO update
+Thu, 24 May 2018 22:24:02 log.py INFO bus ticker
+Thu, 24 May 2018 22:25:09 log.py INFO 车次列表
+Thu, 24 May 2018 22:25:11 log.py INFO 汽车票预订
+Thu, 24 May 2018 22:25:15 log.py INFO 订票人姓名
