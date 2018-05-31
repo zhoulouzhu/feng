@@ -20,3 +20,4 @@ def driver():
 
     return driver
 
+driver()
